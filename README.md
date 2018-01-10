@@ -1,4 +1,1 @@
-# game
-This repository contain what I learn form game programming.
-
-Hiz
+用来记录一些日常游戏开发相关的内容
