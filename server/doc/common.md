@@ -8,7 +8,6 @@
 7. 世界服（WorldMgr），与其他服务器相连，管理服务器状态等功能
 8. 交易服务器（TradeServer），提供寄售中心服务
 9. 机器人服务器（RobotServer），为某些玩法提供机器人逻辑支持服务
-10. 日志服务器（LogServer），提供写日志服务，可选用磁盘大，配置低的设备
 
 ### 架构图
-![image](https://github.com/AstroHiz/game/blob/master/server/doc/%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+![image](https://github.com/AstroHiz/game/blob/master/server/doc/server.png)
